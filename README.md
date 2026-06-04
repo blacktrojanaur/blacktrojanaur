@@ -33,17 +33,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🌆 GitHub Skyline
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/blacktrojanaur/blacktrojanaur/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/blacktrojanaur/blacktrojanaur/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/blacktrojanaur/blacktrojanaur/output/github-contribution-grid-snake.svg" />
-</picture>
+> *Every commit builds a skyscraper. Every push raises the skyline.*
+
+[![GitHub Skyline 2024](https://skyline.github.com/blacktrojanaur/2024.png)](https://skyline.github.com/blacktrojanaur/2024)
+
+[![GitHub Skyline 2025](https://skyline.github.com/blacktrojanaur/2025.png)](https://skyline.github.com/blacktrojanaur/2025)
 
 </div>
