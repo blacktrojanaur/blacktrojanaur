@@ -33,14 +33,22 @@
 
 ---
 
-## 🌆 GitHub Skyline
+## ⏱️ Weekly Coding Stats
+
+<!-- Requires: wakatime.com account + WakaTime VS Code extension -->
+<!-- Then connect: github.com/anmol098/waka-readme-stats -->
 
 <div align="center">
 
-> *Every commit builds a skyscraper. Every push raises the skyline.*
-
-[![GitHub Skyline 2024](https://skyline.github.com/blacktrojanaur/2024.png)](https://skyline.github.com/blacktrojanaur/2024)
-
-[![GitHub Skyline 2025](https://skyline.github.com/blacktrojanaur/2025.png)](https://skyline.github.com/blacktrojanaur/2025)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
+
+<!-- Until WakaTime is set up, use this placeholder: -->
+
+```text
+🐍 Python        ████████████░░░░░░░░   58.3 %
+🔵 Go            ████████░░░░░░░░░░░░   38.1 %
+📜 Bash          ██░░░░░░░░░░░░░░░░░░    3.6 %
+```
